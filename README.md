@@ -1,2 +1,2 @@
 # GOGC
-Game On for Google Classroom: Bringing game mechanics to Google Classroom
+Game On for Google Classroom: Bringing game mechanics to the hands of educators
